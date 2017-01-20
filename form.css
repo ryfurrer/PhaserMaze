@@ -2,8 +2,8 @@
 	width: 100%;
 	height: 50px;
 	border-style: solid;
-	border-color: #f1800e;
-	background-color: #f1800e;
+	border-color: #1E8F39;
+	background-color: #1E8F39;
 }
 
 h1 {
@@ -43,7 +43,7 @@ img {
 }
 
 input[type="button"] {
-	background-color: #f1800e;
+	background-color: #1E8F39;
 	border: none;
 	text-align: center;
 	padding: 25px 36px;
@@ -52,7 +52,7 @@ input[type="button"] {
 }
 
 input[type="submit"] {
-	background-color: #f1800e;
+	background-color: #1E8F39;
 	border: none;
 	text-align: center;
 	padding: 25px 36px;
