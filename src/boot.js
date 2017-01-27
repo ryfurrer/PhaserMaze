@@ -4,7 +4,7 @@ var bootState = {
         game.load.image('orangePlay', 'assets/clickMe.png');
         game.load.image('back','assets/backg.png');
         game.load.image('exit', 'assets/goal.png');
-        game.load.image('key', 'assets/goal2.png');
+        game.load.image('key', 'assets/g2.png');
         game.load.image('ball', 'assets/ball.png');
         game.load.image('sign', 'assets/sign.png');
         game.load.image('block', 'assets/block1.png');
